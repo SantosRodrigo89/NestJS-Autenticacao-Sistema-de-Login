@@ -9,6 +9,7 @@ Here are the technologies used in this project.
 * Nest.js version 9.1.4
 * Node.js version 14.17.0
 * Type Script
+* Prisma
 
 ## Links
  
