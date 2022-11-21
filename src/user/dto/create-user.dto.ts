@@ -6,8 +6,11 @@ import {
   MaxLength,
   MinLength,
 } from 'class-validator';
+import { ApiProperty, ApiTags } from '@nestjs/swagger';
 
+@ApiTags('User')
 export class CreateUserDto extends User {
+  @ApiProperty()
   @IsEmail()
   email: string;
 
