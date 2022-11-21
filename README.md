@@ -10,6 +10,7 @@ Here are the technologies used in this project.
 * Node.js version 14.17.0
 * Type Script
 * Prisma
+* Swagger
 
 ## Links
  
